@@ -125,7 +125,7 @@ src/
 
 ## 🛠️ Development
 
-### 🚀 Future Work
+### 🚀 TO-DO/Future Work
 
 To extend the project:
 
